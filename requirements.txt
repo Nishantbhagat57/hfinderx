@@ -1,0 +1,7 @@
+pyppeteer
+beautifulsoup4
+requests
+argparse
+asyncio
+urllib3
+certifi
